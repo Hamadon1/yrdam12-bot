@@ -10,7 +10,7 @@ import pytz
 from telebot import types
 
 # ==================== ТАНЗИМОТ (КОНФИГУРАТСИЯ) ====================
-BOT_TOKEN = "7757855093:AAHnKu13QdJB3RUfT_pNZ6HFzsBxD4ATzDI"  # Token-и ботатонро дар ин ҷо ворид кунед
+BOT_TOKEN = "7876450857:AAEYNwt2QoNiefSLKOAmLu4AEmBzcIQyHDQ"  # Token-и ботатонро дар ин ҷо ворид кунед
 ADMIN_USER_ID = 6862331593  # ID-и Telegram-и администратор (танҳо рақам)
 CHANNEL_ID = "@kinohoijazob"  # ID-и канал ё username (масалан @mychannel ё -100xxxxxxxxxx)
 DATA_FILE = "bot_data.json"  # Номи файли JSON барои захираи маълумот
